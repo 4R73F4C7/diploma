@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "boredapeyachtclub",
+    "otherdeed",
+    "azuki",
+    "clonex",
+    "valhalla",
+    "doodles-official",
+    "mekaverse",
+    "bored-ape-kennel-club",
+    "meebits",
+    "pudgypenguins"
+  ],
+  "lookback": 10,
+  "train_size": 0.8
+}
